@@ -2,7 +2,7 @@
 
 Young senior with a passion for software and technology and a desire to work for a large firm. I graduated from Karabuk University Computer Programming department with honors. Next year, I will graduated from Çankaya University with Computer Engineering and, Anadolu University with Menagament Information Systems. I have always had a passion for the software sector, and this position has allowed me to gain valuable hands-on experience that I can apply to future opportunities.
 
-My backround includes: Java & Android, C#, C, C++, SQL, Html/CSS, Javascript, Wordpress, Microsoft Office, Adobe Photoshop.
+My backround includes: Java & Android, C#, C, C++, SQL, Html/CSS, Javascript, Wordpress, Microsoft Office, Adobe Photoshop. Recently, I have given my work intensity to mobil development where I use languages such as Swift and Kotlin.Now, I learn to design applications for iOS and Android. 
 
 I am currently seeking an entry level role, and would love to work for a large firm with great integrity, who seeks to excel in their field, who respects and values their emplooyes, clients, and serves their community well. Please contact me if you have any such oppurtunities, and feel free to ask any questions you may have about my experience and qualifications.
 
