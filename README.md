@@ -13,7 +13,7 @@ I am currently seeking an entry level role, and would love to work for a large f
 # My Education Life
 
 + ## <img src="https://upload.wikimedia.org/wikipedia/tr/2/21/%C3%87ankaya_%C3%9Cniversitesi_logo.png" width="20"> Çankaya University 
-  * Bachelor of Engineering - BE Computer Engineering / 2019 – 2022
+  * Bachelor's Degree - Computer Engineering / 2019 – 2022
 
 
 + ## <img src="https://logosvector.net/wp-content/uploads/2013/06/tc-anadolu-universitesi-vector-logo.png" width="20"> Anadolu University
@@ -33,7 +33,7 @@ I am currently seeking an entry level role, and would love to work for a large f
   * Cerebrum Tech / 2021
 
 + ## <img src="https://www.ugursaat.com.tr/Content/images/logolar/ugursaat-logo-text_150px.png" width="20"> IT Staff
-  * Uğur Saat / 2011 – 2017
+  * Uğur Saat / 2016 – 2017
   
 + ## <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Baskent_University_Logo.png" width="20"> Intern
   * Başkent University  / 2016 
@@ -41,7 +41,10 @@ I am currently seeking an entry level role, and would love to work for a large f
 + ## <img src="https://www.nanoturk.net/images/logo.png" width="20"> Intern
   * NanoVizyon & NanoTürk - NanoSoft Group / 2015
   
-  
+
++ ## <img src="https://marka-logo.com/wp-content/uploads/2020/11/Rolex-Logo.png" width="20"> Polisher
+  * Rolex / 2010 - 2015
+
 -------------
 
 
