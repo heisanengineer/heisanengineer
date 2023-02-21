@@ -26,6 +26,11 @@ My background includes: Java, Android, C, C++, C#, HTML5/CSS3, Python, SQL, Word
 
 # My Experience
 
++ ## <img src="https://www.ardbilisim.com.tr/wp-content/uploads/2016/03/ard-bilisim-400x400.png" width="20"> Intern
+  * Long-Term Web Development Internship
+  * ARD Group Holding
+  * 2022
+  
 + ## <img src="https://www.4me.com/wp-content/uploads/2021/06/bilgeadam-logo-square.png" width="20"> Junior Java Developer
   * Full Stack Software Development - Software Java Education Program
   * BilgeAdam Academy
