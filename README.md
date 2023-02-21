@@ -26,8 +26,8 @@ My background includes: Java, Android, C, C++, C#, HTML5/CSS3, Python, SQL, Word
 
 # My Experience
 
-+ ## <img src="https://www.ardbilisim.com.tr/wp-content/uploads/2016/03/ard-bilisim-400x400.png" width="20"> Intern
-  * Long-Term Web Development Internship
++ ## <img src="https://www.ardbilisim.com.tr/wp-content/uploads/2016/03/ard-bilisim-400x400.png" width="20"> Long-Term Internship
+  * Long-Term Web Development Internship (C#, Angular, TypeScript, HTML / CSS, Bootstrap, MySQL / SQL)
   * ARD Group Holding
   * 2022
   
