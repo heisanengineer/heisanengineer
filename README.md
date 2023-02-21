@@ -1,6 +1,6 @@
 Young senior with a passion for software and technology and a desire to work for a large firm. I got my high school education from the department of information technologies in vocational high school with an 81-grade point average. After that, I graduated from Karabuk University Computer Programming associate’s degree with an honors degree, and a 3.10 GPA. Next year, I will graduate from Çankaya University Bachelor of Engineering degree, in Computer Engineering and, Anadolu University Faculty of Open Education Bachelor's degree, in Management Information Systems. I have always had a passion for the software sector, and this position has allowed me to gain valuable hands-on experience that I can apply to future opportunities.
 
-My background includes: Java, Android, C, C++, C#, HTML5/CSS3, Python, SQL, Wordpress, Adobe Photoshop, Microsoft Office, Graphic Design, UI/UX Design
+My background includes: Java, Android, C, C++, Python, C#, MySQL / SQL, Angular, TypeScript, .NET Framework, HTML5/CSS3, Bootstrap, Wordpress, Adobe Photoshop / Illustrator, Microsoft Office, Graphic Design, UI/UX Design
 
 -------------
 
