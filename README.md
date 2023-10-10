@@ -1,10 +1,10 @@
 I am a young senior passionate about software and technology and also desire to work for a large firm.
 
-I got my high school education at the Department of Information Technologies and Web Programming from Technical and Industrial Vocational High School with an 81 GPA. After that, as an honors student, I graduated from the Karabuk University Computer Programming associate degree with a 3.09 GPA. I graduated from Cankaya University Computer Engineering with a bachelor’s degree. Besides, I graduated from Anadolu University Faculty of Open Education bachelor’s degree in management information systems. I am currently developing myself in Web Development such as C#, Javascript / Typescript, HTML / CSS, Angular, Bootstrap / PrimeEngine, PostgreSQL / MySQL / SQL... 
+ I got my high school education at the Department of Information Technologies and Web Programming from Technical and Industrial Vocational High School with an 81 GPA. After that, as an honors student, I graduated from the Karabuk University Computer Programming associate degree with a 3.09 GPA. I graduated from Cankaya University Computer Engineering with a bachelor’s degree. Besides, I graduated from Anadolu University Faculty of Open Education bachelor’s degree in management information systems. I am currently developing myself in Web Development such as C#, Javascript / Typescript, HTML / CSS, Angular, Bootstrap / PrimeEngine, PostgreSQL / MySQL / SQL... 
 
- I have always had a passion for the software sector, so I am ready for the opportunities you can offer me. You can contact me for any position.
- 
-My background includes: Java, Android, C, C++, Python, C#, MySQL / SQL, JSON, Angular, TypeScript, .NET Framework, HTML5/CSS3, Bootstrap, Wordpress, Adobe Photoshop / Illustrator, Microsoft Office, Graphic Design, UI/UX Design
+ I am passionate about the software sector and interested in any position you have available. Please feel free to contact me.
+
+My skills include Java, Android, C, C++, Python, C#, MySQL, SQL, JSON, Angular, TypeScript, .NET Framework, HTML5/CSS3, Bootstrap, WordPress, Adobe Photoshop/Illustrator, Microsoft Office, Graphic Design, UI/UX Design.
 
 -------------
 
@@ -25,62 +25,6 @@ My background includes: Java, Android, C, C++, Python, C#, MySQL / SQL, JSON, An
   * Associate's Degree - Computer Programming
   * 2017 – 2019
 
--------------
-
-
-# My Experience
-
-+ ## <img src="https://www.ardbilisim.com.tr/wp-content/uploads/2016/03/ard-bilisim-400x400.png" width="20"> Long-Term Internship
-  * Long-Term Web Development Internship (C#, Angular, TypeScript, HTML / CSS, Bootstrap, MySQL / SQL)
-  * ARD Group Holding
-  * 2022
-  
-+ ## <img src="https://www.4me.com/wp-content/uploads/2021/06/bilgeadam-logo-square.png" width="20"> Junior Java Developer
-  * Full Stack Software Development - Software Java Education Program
-  * BilgeAdam Academy
-  * 2022
-
-+ ## <img src="https://upload.wikimedia.org/wikipedia/tr/d/d9/%C3%87evre%2C_%C5%9Eehircilik_ve_%C4%B0klim_De%C4%9Fi%C5%9Fikli%C4%9Fi_Bakanl%C4%B1%C4%9F%C4%B1_logo.png" width="20"> Summer Internship
-  * T.C. Ministry of Environment, Urbanisation and Climate Change
-  * 2022
-
-+ ## <img src="http://cerebrumtechnologies.com/wp-content/uploads/2020/12/logo.png" width="20"> Summer Internship
-  * Cerebrum Tech
-  * 2021
-
-+ ## <img src="https://marka-logo.com/wp-content/uploads/2020/11/Rolex-Logo.png" width="20"> IT Staff
-  * Rolex
-  * 2015 – 2016
-  
-+ ## <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Baskent_University_Logo.png" width="20"> Summer Internship
-  * Başkent University
-  * 2016 
-  
-+ ## <img src="https://www.nanoturk.net/images/logo.png" width="20"> Summer Internship
-  * NanoVizyon & NanoTürk - NanoSoft Group
-  * 2015
-
-+ ## <img src="https://marka-logo.com/wp-content/uploads/2020/11/Rolex-Logo.png" width="20"> Polisher & Asistant
-  * Rolex
-  * 2011 - 2015
-
--------------
-
-
-# My Awards
-
-+ ## 15. R&D Project Market Finalist / Ambilight Media Player
-  * Çankaya University / Department of Computer Engineering, finalist among the 2021-2022 graduation projects.
-  * 2022
-
-+ ## Honor Student
-  * I graduated from Karabuk University Computer Programming associate’s degree with an honors degree, and a 3.10 GPA.
-  * 2019
-  
-+ ## Department Graduation Projects 2nd Place / Real Estate Automation
-  * Karabük University / Computer Programming Department 2018-2019 Graduation Projects 2nd Place.
-  * 2019
-  
 -------------
 
 
